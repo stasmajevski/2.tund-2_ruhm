@@ -21,3 +21,8 @@ for($i = 1;$i<=$age;$i++){
 echo "onne";
 
 ?>
+
+<br>
+<?php
+echo date("d.m.Y H:i:s l");
+?>
